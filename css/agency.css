@@ -339,6 +339,9 @@ section h3.section-subheading {
   margin: 0 0 15px;
   right: 0;
 }
+#blog .blog-item img {
+  margin: auto;
+}
 #blog .blog-item .blog-link {
   display: block;
   position: relative;
