@@ -758,7 +758,7 @@ section#contact {
   background-color: #ffbfa7;
   background-image: url('../img/henna.png');
   background-position: center;
-  background-repeat: no-repeat;
+  background-repeat: repeat-x;
 }
 section#contact .section-heading {
   color: white;
