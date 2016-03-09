@@ -834,6 +834,17 @@ section#contact .menu-choices .section-subheading {
 }
 section#contact .menu-choices .btn {
   margin-bottom: 35px;
+  width: 100px;
+}
+section#contact .menu-choices .btn.collapsed:before {
+  content: 'Show Menu';
+  display: block;
+  width: 15px;
+}
+section#contact .menu-choices .btn:before {
+  content: 'Hide Menu';
+  display: block;
+  width: 15px;
 }
 footer {
   padding: 25px 0;
