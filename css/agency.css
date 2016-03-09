@@ -27,6 +27,9 @@ ul.list-centered {
   list-style: none;
   padding: 0px;
 }
+.button-row {
+  margin-top: 24px;
+}
 .text-muted {
   color: #777;
 }
