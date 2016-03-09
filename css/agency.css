@@ -763,6 +763,9 @@ section#contact {
   background-position: center;
   background-repeat: repeat-x;
 }
+section#contact .form-control {
+  height: inherit !important;
+}
 section#contact .section-heading {
   color: white;
 }
