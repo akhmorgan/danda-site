@@ -829,6 +829,12 @@ section#contact .text-danger {
 section#contact .col-lg-12 table {
   margin: 0 auto;
 }
+section#contact .menu-choices .section-subheading {
+  margin-bottom: 20px;
+}
+section#contact .menu-choices .btn {
+  margin-bottom: 35px;
+}
 footer {
   padding: 25px 0;
   text-align: center;
