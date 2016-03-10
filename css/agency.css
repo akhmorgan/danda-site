@@ -2,6 +2,11 @@ body {
   overflow-x: hidden;
   font-family: "Roboto Slab", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
+@media (min-width: 0px) {
+  section h2.section-heading {
+    font-size: 24px;
+  }
+}
 @media (min-width: 768px) {
   section h2.section-heading {
     font-size: 24px;
